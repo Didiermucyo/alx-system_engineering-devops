@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir –mdrwxr-x--x my_dir
+mkdir –m o-r my_dir
