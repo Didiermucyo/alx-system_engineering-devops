@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(((a**) *b))
+echo $(((a**b) *c))
