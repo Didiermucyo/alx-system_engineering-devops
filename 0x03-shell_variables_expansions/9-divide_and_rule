@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((4/2)) $(((12**2) / 12)) 
+echo $((PWER/DIVIDE))  
