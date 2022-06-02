@@ -1,3 +1,2 @@
 #!bin/bsh
 printf "%x\n" $DECIMAL
-
